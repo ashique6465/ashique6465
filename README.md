@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/md_ali50852" target="blank"><img src="https://img.shields.io/twitter/follow/md_ali50852?logo=twitter&style=for-the-badge" alt="md_ali50852" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Project**
+- 🔭 I’m currently working on **Admin Dashboard project**
 
 - 🌱 I’m currently learning **MERN Stack, Next.js and Typescript**
 
